@@ -1,8 +1,10 @@
 {
-[
+"bits": [
+  {
   id: 1,
   content: "sdfsd",
   date: "27.02.2020",
   source: "sdfsdf"
+  }
 ]
 }
